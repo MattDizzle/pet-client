@@ -8,7 +8,8 @@ const useFetchCat = (people) => {
 		const handleFetch = async () => {
 			try {
 				const data = await fetch(
-					`${config.REACT_APP_API_BASE}/pets/cat`,
+					'https://agile-earth-54183.herokuapp.com/api/pets/cat',
+					// `${config.REACT_APP_API_BASE}/pets/cat`,
 					{ method: 'GET' }
 				)
 
