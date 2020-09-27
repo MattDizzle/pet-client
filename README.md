@@ -1,4 +1,7 @@
 # Petful Client
+### project by Matt P. and Matt R.
+Live Client Link: https://pet-client.vercel.app/
+
 
 ## Introduction
 
@@ -11,7 +14,7 @@ The app is a demo for a queue stack data structure. When the compoments mount, a
 
 ![Petful](./public/petful.png)
 
-[Server Repo](https://github.com/themlp101/dsa-petful-server)
+[Server Repo](https://github.com/MattDizzle/pet-server)
 
 ### Tech
 
