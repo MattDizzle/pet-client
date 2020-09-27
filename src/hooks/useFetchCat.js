@@ -14,7 +14,8 @@ const useFetchCat = (people) => {
 				)
 
 				const cat = await data.json()
-				if (cat.error) throw cat.error
+				// if (cat.error) throw cat.error
+				if (cat.error) { console.log(cat.error)}
 				if (cat) {
 					setnextCat(cat)
 				}
