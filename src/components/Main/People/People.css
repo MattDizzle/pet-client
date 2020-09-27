@@ -1,0 +1,11 @@
+.people__list {
+	list-style-type: none;
+	align-self: center;
+}
+.people__list li {
+	margin: 3px;
+	display: inline-block;
+	border: 1px solid black;
+	border-radius: 2px;
+	padding: 3px 4px;
+}

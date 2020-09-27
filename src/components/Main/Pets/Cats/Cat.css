@@ -1,0 +1,9 @@
+.cat__container {
+	max-width: 400px;
+	align-self: center;
+	margin: 0.8rem 1.2rem;
+}
+
+.cat__image {
+	width: 100%;
+}

@@ -1,0 +1,9 @@
+.dog__container {
+	max-width: 400px;
+	align-self: center;
+	margin: 0.8rem 1.2rem;
+}
+
+.dog__image {
+	width: 100%;
+}
